@@ -1,0 +1,97 @@
+psd to html/bootstrap
+psd to respponsive bootstrap
+
+
+using html,css,bootstrap, js/jq
+
+
+cltr + ; ..remove grid layout in photoshop in psd file
+
+to select  single item in photoshop in artboard:-
+
+altr + keep cursor in that eye + press left of mouse + go to image + select trim+ok
+
+(export option to save  that selected item or file as web element )
+ctlr+altr+shift+s
+logo always saved as png formate
+
+fonts -------------google font
+
+font-family:'PT Sans', sans-serif ;
+Ptsans regular bold
+
+color-----------------
+black  	#000000
+green	#21B573
+red 	#FD511A
+mint    #F0FFF0
+
+typo
+
+font-family: 'Poppins', sans-serif;
+font-family: 'Roboto', sans-serif;
+
+Poppins ,400,700,500
+
+btn roboto 400
+
+btn
+
+border radius 33px
+background colour #21B573
+text 
+
+padding with hight (d)
+
+
+
+
+
+Media quarry------------------
+
+xxl 		1440 (must)-1600-1800-2100
+xl 			1200 (must) 1399
+lg 			1024 (must) 992-1199
+
+md 			768  (must) 991
+
+
+sm  		576  (must) 767
+col  		320	 (must)	575
+
+padding common ratio	 xxl/xl/lg (100-120px-) Md (80-100px)	sm/col(50-60/70px)
+
+
+
+
+
+
+
+		 xxl/xl/lg 		Md 		sm/col
+header
+------
+
+
+
+banner
+h1		48px			45px			
+------------
+
+features
+---------
+
+p-t			100 	80 			60
+p-b			120 	100 		80
+
+h1 			32 		32 			25px
+p 			20 		20 			17px
+
+f.slide icon
+--------
+icon 		50 		50 	        35
+p 			16 		16  		16
+
+h2 			22 		22 			20/18	
+
+icon-----
+jsdiliver
